@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">recruitment task</string>
+    <string name="no_data_label">No data available!</string>
+    <string name="error_label">Something unexpected error</string>
+    <string name="reload">Reload</string>
+    <string name="close">Close</string>
+</resources>
